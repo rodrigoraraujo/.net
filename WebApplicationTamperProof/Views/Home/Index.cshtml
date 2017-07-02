@@ -1,0 +1,14 @@
+﻿@using SecurityTamperProofQueryString.Security;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Link</h2>
+
+@Html.ActionLink("Clique aqui", "Hash", TamperProofComputeHash.SetHashQueryString(new {param1 = ViewBag.Param1, param2 = ViewBag.Param2, param3 = ViewBag.Param3 }))
+@Html.ActionLink("Clique aqui 2", "Hash", TamperProofComputeHash.SetHashQueryString(new { param1 = ViewBag.Param1 }))
+@Html.ActionLink("Clique aqui 3", "Hash", TamperProofComputeHash.SetHashQueryString(new { param2 = ViewBag.Param2 }))
+@Html.ActionLink("Clique aqui 4", "Hash", TamperProofComputeHash.SetHashQueryString(new { param3 = ViewBag.Param3 }))
+@Html.ActionLink("Clique aqui 5", "Hash", TamperProofComputeHash.SetHashQueryString(new { param1 = ViewBag.Param1, param3 = ViewBag.Param3 }))
+

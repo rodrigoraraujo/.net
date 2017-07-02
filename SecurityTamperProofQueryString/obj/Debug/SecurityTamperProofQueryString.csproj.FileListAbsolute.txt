@@ -1,0 +1,7 @@
+D:\projects\dotNet\WebApplicationTamperProof\SecurityTamperProofQueryString\bin\Debug\SecurityTamperProofQueryString.dll
+D:\projects\dotNet\WebApplicationTamperProof\SecurityTamperProofQueryString\bin\Debug\SecurityTamperProofQueryString.pdb
+D:\projects\dotNet\WebApplicationTamperProof\SecurityTamperProofQueryString\obj\Debug\SecurityTamperProofQueryString.csprojResolveAssemblyReference.cache
+D:\projects\dotNet\WebApplicationTamperProof\SecurityTamperProofQueryString\obj\Debug\SecurityTamperProofQueryString.dll
+D:\projects\dotNet\WebApplicationTamperProof\SecurityTamperProofQueryString\obj\Debug\SecurityTamperProofQueryString.pdb
+D:\projects\dotNet\WebApplicationTamperProof\SecurityTamperProofQueryString\bin\Debug\System.Web.Mvc.dll
+D:\projects\dotNet\WebApplicationTamperProof\SecurityTamperProofQueryString\bin\Debug\System.Web.Mvc.xml
