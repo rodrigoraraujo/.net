@@ -1,0 +1,6 @@
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\InheritanceDemo\obj\Debug\InheritanceDemo.csprojResolveAssemblyReference.cache
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

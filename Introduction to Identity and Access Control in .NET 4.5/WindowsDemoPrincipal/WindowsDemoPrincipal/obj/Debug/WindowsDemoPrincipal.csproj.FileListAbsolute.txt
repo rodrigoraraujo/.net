@@ -1,0 +1,6 @@
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\WindowsDemoPrincipal\bin\Debug\WindowsDemoPrincipal.exe.config
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\WindowsDemoPrincipal\bin\Debug\WindowsDemoPrincipal.exe
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\WindowsDemoPrincipal\bin\Debug\WindowsDemoPrincipal.pdb
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\WindowsDemoPrincipal\obj\Debug\WindowsDemoPrincipal.csprojResolveAssemblyReference.cache
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\WindowsDemoPrincipal\obj\Debug\WindowsDemoPrincipal.exe
+D:\projects\dotNET\Introduction to Identity and Access Control in .NET 4.5\WindowsDemoPrincipal\WindowsDemoPrincipal\obj\Debug\WindowsDemoPrincipal.pdb
