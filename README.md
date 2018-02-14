@@ -1,2 +1,2 @@
-# .net
+# .NET Projects
 .NET Projects
